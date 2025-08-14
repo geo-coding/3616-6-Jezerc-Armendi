@@ -24,3 +24,9 @@ Gjithsej	4616	m²	Gjithsej	4616	m²
 
 
 
+# kerkesa
+
+```
+dyfishet
+2,761147
+```
